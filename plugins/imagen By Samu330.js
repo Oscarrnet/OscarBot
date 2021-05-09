@@ -1,5 +1,5 @@
 let fetch = require('node-fetch')
-//plugin by Samu330
+//plugin by OscarNet
 
 let handler  = async (m, { conn, text }) => {
 if (!text) return conn.reply(m.chat, 'No hay texto para buscar imagen', m)
