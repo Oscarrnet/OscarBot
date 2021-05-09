@@ -26,7 +26,7 @@ TEAM ♥️OSCARNET BOLIVIA❤️🇧🇴
 ```
 > Opcional en caso de no funcionar sticker con movimiento insertar ese comando en el wasap del bot tal como esta.. 
 > $ npm install fluent-ffmpeg
-
+```
 ---------
 
 ### FOR WINDOWS/VPS/RDP USER💻
