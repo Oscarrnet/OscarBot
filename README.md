@@ -24,8 +24,8 @@ TEAM ♥️OSCARNET BOLIVIA❤️🇧🇴
 ```bash
 > node index.js [<session name>] (session name is optional)
 ```
-Opcional en caso de no funcionar sticker con movimiento insertar ese comando en el wasap del bot tal como esta.. 
-$ npm install fluent-ffmpeg
+> Opcional en caso de no funcionar sticker con movimiento insertar ese comando en el wasap del bot tal como esta.. 
+> $ npm install fluent-ffmpeg
 
 ---------
 
