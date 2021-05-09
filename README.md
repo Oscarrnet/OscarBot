@@ -40,4 +40,6 @@ TEAM ♥️OSCARNET BOLIVIA❤️🇧🇴
 ###### Run
 ```bash
 > node index.js
-```
+``
+Opcional en caso de no funcionar sticker con movimiento insertar ese comando en el wasap del bot tal como esta.. 
+$ npm install fluent-ffmpeg
